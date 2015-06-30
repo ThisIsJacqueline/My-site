@@ -1,0 +1,44 @@
+body {
+	margin: 20px
+}
+
+.hello {
+	font-family: Quicksand;
+	font-size: 300%;
+	text-align: center;
+}
+
+.jacqueline {
+	font-family: Quicksand;
+	font-size: 200%;
+	text-align: center;
+}
+
+p {
+	font-family: Quicksand;
+	font-weight: 400;
+}
+
+.mephoto {
+	width: 200px;
+	border-radius: 200px;
+	align: center;
+}
+
+main {
+	padding: 0px 100px;
+}
+
+/* Mobile tablet*/
+   @media (max-width: 30em) {
+	   main {
+	   	padding: 0px;
+	   }
+   }
+
+/* Portrait tablet */
+   @media (min-width: 30em) and (max-width: 50em) {
+	   main {
+	   	padding: 0px;
+	   }
+   }
