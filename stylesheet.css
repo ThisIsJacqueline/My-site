@@ -31,6 +31,17 @@ main {
 	font-family: Quicksand;
 }
 
+.whywontyoucenter {
+	margin-left:auto;
+	margin-right:auto;
+	width:200px;
+}
+
+.headshot {
+	width: 200px;
+	border-radius: 200px;
+}
+
 a:link {
 	font-family: Quicksand;
 	text-decoration: none;
