@@ -1,5 +1,6 @@
 body {
 	margin: 20px
+	font-family: Quicksand;
 }
 
 .hello {
@@ -19,14 +20,48 @@ p {
 	font-weight: 400;
 }
 
-.mephoto {
-	width: 200px;
-	border-radius: 200px;
-	align: center;
+
+.centered {
+	text-align: center;
+	font-family: Quicksand;
 }
 
 main {
 	padding: 0px 100px;
+	font-family: Quicksand;
+}
+
+a:link {
+	font-family: Quicksand;
+	text-decoration: none;
+	color: #000000;
+}
+
+a:visited {
+	font-family: Quicksand;
+	text-decoration: none;
+	color: #000000;
+}
+
+a:hover {
+	font-family: Quicksand;
+	text-decoration: none;
+	color: #616365;
+}
+
+a:active {
+	font-family: Quicksand;
+	text-decoration: none;
+	color: #616365;
+}
+
+.contactme {
+	margin-left: 35%;
+	margin-right: 35%;
+	border: solid 1px #000000;
+	padding: 10px;
+	font-family: Quicksand;
+	text-align: center;
 }
 
 /* Mobile tablet*/
@@ -34,11 +69,29 @@ main {
 	   main {
 	   	padding: 0px;
 	   }
+	   
+	   .contactme {
+	   	margin-left: 5%;
+	   	margin-right: 5%;
+	   	border: solid 1px #000000;
+	   	padding: 10px;
+	   	font-family: Quicksand;
+	   	text-align: center;
+	   }
    }
 
 /* Portrait tablet */
    @media (min-width: 30em) and (max-width: 50em) {
 	   main {
 	   	padding: 0px;
+	   }
+	   
+	   .contactme {
+	   	margin-left: 15%;
+	   	margin-right: 15%;
+	   	border: solid 1px #000000;
+	   	padding: 10px;
+	   	font-family: Quicksand;
+	   	text-align: center;
 	   }
    }
