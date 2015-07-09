@@ -89,6 +89,10 @@ a:active {
 	   	font-family: Quicksand;
 	   	text-align: center;
 	   }
+	   
+	   .centered {
+		   font-size: 150%;
+	   }
    }
 
 /* Portrait tablet */
@@ -104,5 +108,9 @@ a:active {
 	   	padding: 10px;
 	   	font-family: Quicksand;
 	   	text-align: center;
+	   }
+	   
+	   .centered {
+		   font-size: 150%;
 	   }
    }
