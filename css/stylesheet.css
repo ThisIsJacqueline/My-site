@@ -75,6 +75,10 @@ a:active {
 	text-align: center;
 }
 
+.portfolio-carousel {
+
+}
+
 /* Mobile tablet*/
    @media (max-width: 30em) {
 	   main {
