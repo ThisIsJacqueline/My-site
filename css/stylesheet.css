@@ -24,6 +24,9 @@ p {
 .centered {
 	text-align: center;
 	font-family: Quicksand;
+  margin-left: 15%;
+  margin-right: 15%;
+  font-size: 115%;
 }
 
 main {
