@@ -67,16 +67,16 @@ a:active {
 }
 
 .contactme {
-	margin-left: 20%;
-	margin-right: 20%;
-	border: solid 1px #000000;
+	margin-left: 5%;
+	margin-right: 5%;
+	border: none;
 	padding: 10px;
 	font-family: Quicksand;
 	text-align: center;
 }
 
-.portfolio-carousel {
-
+a .contactme {
+  padding: none 5px none 5px;
 }
 
 /* Mobile tablet*/
@@ -88,7 +88,7 @@ a:active {
 	   .contactme {
 	   	margin-left: 5%;
 	   	margin-right: 5%;
-	   	border: solid 1px #000000;
+	   	border: none;
 	   	padding: 10px;
 	   	font-family: Quicksand;
 	   	text-align: center;
@@ -96,6 +96,8 @@ a:active {
 	   
 	   .centered {
 		   font-size: 150%;
+       margin-left: 20px;
+       margin-right: 20px;
 	   }
    }
 
@@ -108,7 +110,7 @@ a:active {
 	   .contactme {
 	   	margin-left: 15%;
 	   	margin-right: 15%;
-	   	border: solid 1px #000000;
+	   	border: none;
 	   	padding: 10px;
 	   	font-family: Quicksand;
 	   	text-align: center;
