@@ -1,29 +1,29 @@
 body {
 	margin: 20px
-	font-family: Quicksand;
+	font-family: 'Work Sans';
 }
 
 .hello {
-	font-family: Quicksand;
+	font-family: 'Work Sans';
 	font-size: 300%;
 	text-align: center;
 }
 
 .jacqueline {
-	font-family: Quicksand;
+	font-family: 'Work Sans';
 	font-size: 200%;
 	text-align: center;
 }
 
 p {
-	font-family: Quicksand;
+	font-family: 'Work Sans';
 	font-weight: 400;
 }
 
 
 .centered {
 	text-align: center;
-	font-family: Quicksand;
+	font-family: 'Work Sans';
   margin-left: 15%;
   margin-right: 15%;
   font-size: 115%;
@@ -31,7 +31,7 @@ p {
 
 main {
 	padding: 0px 100px;
-	font-family: Quicksand;
+	font-family: 'Work Sans';
 }
 
 .whywontyoucenter {
@@ -46,25 +46,25 @@ main {
 }
 
 a:link {
-	font-family: Quicksand;
+	font-family: 'Work Sans';
 	text-decoration: none;
 	color: #82BBCF;
 }
 
 a:visited {
-	font-family: Quicksand;
+	font-family: 'Work Sans';
 	text-decoration: none;
 	color: #82BBCF;
 }
 
 a:hover {
-	font-family: Quicksand;
+	font-family: 'Work Sans';
 	text-decoration: none;
 	color: #616365;
 }
 
 a:active {
-	font-family: Quicksand;
+	font-family: 'Work Sans';
 	text-decoration: none;
 	color: #616365;
 }
@@ -74,7 +74,7 @@ a:active {
 	margin-right: 5%;
 	border: none;
 	padding: 10px;
-	font-family: Quicksand;
+	font-family: 'Work Sans';
 	text-align: center;
 }
 
@@ -93,7 +93,7 @@ a .contactme {
 	   	margin-right: 5%;
 	   	border: none;
 	   	padding: 10px;
-	   	font-family: Quicksand;
+	   	font-family: 'Work Sans';
 	   	text-align: center;
 	   }
 	   
@@ -115,7 +115,7 @@ a .contactme {
 	   	margin-right: 15%;
 	   	border: none;
 	   	padding: 10px;
-	   	font-family: Quicksand;
+	   	font-family: 'Work Sans';
 	   	text-align: center;
 	   }
 	   
